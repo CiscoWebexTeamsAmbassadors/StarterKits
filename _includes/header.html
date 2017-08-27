@@ -1,0 +1,26 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" href="{{ site.url }}"><img src="{{ site.url }}/assets/img/logo.png"></a>
+
+    {% if page_paths %}
+    <nav class="site-nav">
+
+
+    <div class="trigger">
+      <ul>
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        {% include pages_list %}
+      </ul>
+
+    </div>
+   </nav>
+   {% endif %}
+
+
+
+ </div>
+</header>

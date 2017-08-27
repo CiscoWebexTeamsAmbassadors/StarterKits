@@ -1,0 +1,64 @@
+<div class="card-item">
+
+  <div class="card-item__body">
+    <span class="card-item__title">
+      <a href="{{ bot.repo }}" target="_blank" alt="{{ bot.repo }}">
+        {{ bot.title }}
+      </a>
+
+    </span>
+    <span class="card-item__author">by: {{ bot.author }}</span>
+    <span class="card-item__description">{{ bot.content }}</span>
+  </div>
+
+  <div class="card-item__actions">
+    <span class="card-item__actions--architecture">
+      {% if bot.framework %}
+      <div class="tooltip">
+        <img src="{{ site.url }}/assets/img/icon-{{ bot.framework | downcase }}.svg" alt="{{ bot.framework }}">
+        <span class="tooltiptext">{{ bot.framework }}</span>
+      </div>
+      {% endif %}
+
+
+      {% if bot.language %}
+      <div class="tooltip">
+        <img src="{{ site.url }}/assets/img/icon-{{ bot.language | downcase }}.svg" alt="{{ bot.language }}">
+        <span class="tooltiptext">{{ bot.language }}</span>
+      </div>
+      {% endif %}
+
+      {% if bot.storage %}
+      <div class="tooltip">
+        <img src="{{ site.url }}/assets/img/icon-{{ bot.storage | downcase }}.svg" alt="{{ bot.storage }}">
+        <span class="tooltiptext">{{ bot.storage }}</span>
+      </div>
+      {% endif %}
+
+    </span>
+    <span class="card-item__actions--dev">
+
+      {% if bot.deploy %}
+      <div class="tooltip">
+        <a href="{{ bot.deploy }}" target="_blank" alt="{{ bot.deploy }}">
+          <img src="{{ site.url }}/assets/img/icon-heroku.svg" alt="{{ bot.deploy }}">
+          <span class="tooltiptext">Heroku</span>
+        </a>
+      </div>
+      {% endif %}
+
+      {% if bot.repo %}
+      <div class="tooltip">
+        <a href="{{ bot.repo }}" target="_blank" alt="{{ bot.repo }}">
+          <img src="{{ site.url }}/assets/img/icon-github.svg" alt="GitHub">
+          <span class="tooltiptext">GitHub</span>
+        </a>
+      </div>
+      {% endif %}
+
+    </span>
+  </div>
+</div>
+
+
+
