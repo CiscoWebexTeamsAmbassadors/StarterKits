@@ -1,0 +1,10 @@
+---
+title: App Dynamics
+author: Altus Consulting
+language: JavaScript
+framework: Botkit
+repo: https://github.com/AltusConsulting/sparkbot-appd-botkit
+deploy: https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAltusConsulting%2Fsparkbot-appd-botkit&template=https%3A%2F%2Fgithub.com%2FAltusConsulting%2Fsparkbot-appd-botkit
+---
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
