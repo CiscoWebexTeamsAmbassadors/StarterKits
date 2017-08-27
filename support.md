@@ -1,3 +1,10 @@
+---
+layout: page
+title: Support
+permalink: /support/
+group: "navigation"
+---
+
 # Support
 The Open Source PowerUps are not a Cisco Product and as such all support is offered on a best efforts basis directly by the contributors of the PowerUps directly. 
 
