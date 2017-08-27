@@ -30,11 +30,11 @@ Contributions to Cisco Spark Ambassador PowerUps are welcomed and encouraged. To
 New PowerUps are welcomed in any programming language or framework. (Node.js/Botkit is currently the most popular stack)
 
 #### Prerequisites for Listing
-- [ ] A clean and well written codebase however we do not mandate any particular style. Just make sure that its written in a way where other people can understand and modify it
-- [ ] Licensed under a permissive Open Source license (MIT preferred)
-- [ ] A clear and well documented README.md
-- [ ] Ensure that you have a repository owner to monitor issues and respond to any PR’s
-- [ ] A precomposed Dockerfile (a Deploy to Heroku button is recommended but not mandatory)
+- [X] A clean and well written codebase however we do not mandate any particular style. Just make sure that its written in a way where other people can understand and modify it
+- [X] Licensed under a permissive Open Source license (MIT preferred)
+- [X] A clear and well documented README.md
+- [X] Ensure that you have a repository owner to monitor issues and respond to any PR’s
+- [X] A precomposed Dockerfile (a Deploy to Heroku button is recommended but not mandatory)
 
 #### Directions to Submit a new PowerUp
 The Cisco Spark Ambassador PowerUps website is powered by GitHub pages. In order to add a new listing submit a Pull Request to the PowerUps repository. 
