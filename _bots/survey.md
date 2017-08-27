@@ -1,6 +1,6 @@
 ---
 title: Survey
-author: Cisco and Promptworks
+author: Promptworks 
 language: JavaScript
 framework: Botkit
 storage: Redis
