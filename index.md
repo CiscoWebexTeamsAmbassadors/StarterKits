@@ -46,11 +46,13 @@ group: "navigation"
 
 <span id="learn-more"></span>
 
-This repository represents a listing of Open Source Bots that have been contributed by the [Cisco Spark for Developers](https://developer.ciscospark.com) community.
+Cisco Spark Ambassador PowerUps are a collection of community created Open Source Bots and Integrations. Designed to be a kickstarter to meet the requirements of complex enterprise software configurations and satisfy data storage and transmission considerations.
 
-We understand that there is no one size fits all solution when it comes to Bots and Integrations. Some customers will choose extend the functionality of Spark using the [Spark Depot](https://depot.ciscospark.com) directly, while others will use an Application Integration service such as Built.io or Kore.ai. While others will opt to build and host their own Bots.
+Contributions to this collection are provided as a reference implementation which will provide a solid set of functionality that works with most  default configurations of the respective application.
 
-This project is designed to address that need, this repository contains free and open source Bot projects for various enterprise applications.
+Each PowerUp has been made available under an Open Source license (typically MIT License) allowing you to take the reference implementation of the Bot/Integration and customise freely to your needs.
+
+Many enterprises have strict InfoSec requirements around where their Bots/Integrations/Applications can be hosted along with restrictions around data storage and transmission. All PowerUps in this collection can be deployed in your preferred Cloud and every repository contains a precomposed Dockerfile, along with a Deploy to Heroku button allowing you to spin up PowerUps on Heroku in just a few clicks.
 
 <br>
 
