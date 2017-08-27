@@ -3,6 +3,7 @@ title: Doorman
 author: Cisco and Promptworks
 language: JavaScript
 framework: Botkit
+storage: Redis
 repo: https://github.com/promptworks/ciscospark-doorman
 ---
 
