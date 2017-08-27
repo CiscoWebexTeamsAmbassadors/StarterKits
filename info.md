@@ -7,7 +7,7 @@ group: "navigation"
 
 # FAQ
 #### Are Cisco Spark PowerUps a Cisco Product?
-* This is not a product, it is a community powered listing  of Open Source contributions for Cisco Spark. These are primarily developed by third parties but Cisco could also make a contribution.
+* This is not a product, it is a community powered listing  of Open Source contributions for Cisco Spark. These are primarily developed by third parties but Cisco may also make a contribution.
 
 #### How do I get Support?
 * These Open Source projects are provided  as is, there is no warranty, support is best efforts and provided by the entity that published the integration. See the support section for more. 
