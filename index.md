@@ -14,7 +14,7 @@ group: "navigation"
     <div class="feature-item__body">
       <span class="feature-item__title">Custom</span>
       <span class="feature-item__description">
-        Completely customisable and deployable with a Dockerfile and Heroku
+        Totally customisable to suit your requirements
       </span>
     </div>
   </div>
@@ -24,7 +24,7 @@ group: "navigation"
     <div class="feature-item__body">
       <span class="feature-item__title">Secure</span>
       <span class="feature-item__description">
-        Self-hosted solution for data transmission and storage
+        Deploy to your preferred Cloud for data transmission and storage
       </span>
     </div>
   </div>
