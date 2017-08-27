@@ -39,7 +39,7 @@ New PowerUps are welcomed in any programming language or framework. (Node.js/Bot
 #### Directions to Submit a new PowerUp
 The Cisco Spark Ambassador PowerUps website is powered by GitHub pages. In order to add a new listing submit a Pull Request to the PowerUps repository. 
 
-This Pull Request needs to consist of a new markdown file that carries the name of your project submission as an addition to the /bots folder,  my-application.md as an example. The file should be in the following format ([example](https://github.com/CiscoSparkAmbassadors/PowerUps/commit/d13ef671130f7f112b28b1e39730713250179838):
+This Pull Request needs to consist of a new markdown file that carries the name of your project submission as an addition to the /bots folder,  my-application.md as an example. The file should be in the following format ([example])(https://github.com/CiscoSparkAmbassadors/PowerUps/commit/d13ef671130f7f112b28b1e39730713250179838):
 
 ``` markdown
 ---
