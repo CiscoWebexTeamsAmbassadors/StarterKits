@@ -52,7 +52,7 @@ Contributions to this collection are provided as a reference implementation whic
 
 Each PowerUp has been made available under an Open Source license (typically MIT License) allowing you to take the reference implementation of the Bot/Integration and customise freely to your needs.
 
-Many enterprises have strict InfoSec requirements around where their Bots/Integrations/Applications can be hosted along with restrictions around data storage and transmission. All PowerUps in this collection can be deployed in your preferred Cloud and every repository contains a precomposed Dockerfile, along with a Deploy to Heroku button allowing you to spin up PowerUps on Heroku in just a few clicks.
+Many enterprises have strict InfoSec requirements around where their Bots/Integrations/Applications can be hosted along with restrictions around data storage and transmission. To address this, all PowerUps in this collection can be deployed in your preferred Cloud and every repository contains a precomposed Dockerfile, along with a Deploy to Heroku button allowing you to spin up PowerUps on Heroku in just a few clicks.
 
 <br>
 
