@@ -66,5 +66,5 @@ Many enterprises have strict InfoSec requirements around where their Bots/Integr
 </div>
 
 
-## [Best Practices, Contributing and Support ►]({{site.url}}/info){:.center}
+## [FAQ, Contributing and Support ►]({{site.url}}/info){:.center}
 
