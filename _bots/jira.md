@@ -1,11 +1,11 @@
 ---
 title: JIRA
-author: Cisco and Promptworks
+author: Promptworks
 language: JavaScript
 framework: Botkit
-repo: https://ciscosparkopensource.github.io/ciscospark-jira/
-deploy: https://heroku.com/deploy/
+repo: https://github.com/promptworks/ciscospark-jira
+deploy: https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpromptworks%2Fciscospark-jira&template=https%3A%2F%2Fgithub.com%2Fpromptworks%2Fciscospark-jira
 ---
 
-This is a bot for Cisco Spark that integrates with JIRA.
+Create, list, assign and update JIRA tickets directly from Cisco Spark.
 
