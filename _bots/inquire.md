@@ -4,7 +4,7 @@ author: Aman Chhabra
 language: JavaScript
 repo: https://github.com/achhabra2/inquire
 framework: Botkit
-storage: Mongo
+storage: mongodb
 deploy: https://heroku.com/deploy?template=https://github.com/achhabra2/inquire
 ---
 
