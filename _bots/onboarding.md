@@ -3,7 +3,7 @@ title: OnBoarding
 author: Bitmaker Software
 language: JavaScript
 framework: Botkit
-storage: mysql
+storage: postgres
 repo: https://www.google.co.uk
 deploy: https://www.google.co.uk
 ---
