@@ -54,7 +54,7 @@ Each PowerUp has been made available under an Open Source license (typically MIT
 
 Many enterprises have strict InfoSec requirements around data storage and transmission. To address this, all PowerUps in this collection can be deployed in your preferred Cloud and every repository contains a precomposed Dockerfile, along with a Deploy to Heroku button allowing you to spin up PowerUps on Heroku in just a few clicks.
 
-There is a Cisco Spark Space dedicated to this project which you can join via the Spark Ambassador team or via Eurl by clicking this [link](https://eurl.io/#S1C_161YW)
+There is a Cisco Spark Space dedicated to this project which you can join via the Spark Ambassador team or via clicking this [link](https://eurl.io/#S1C_161YW)
 
 <br>
 
@@ -68,5 +68,5 @@ There is a Cisco Spark Space dedicated to this project which you can join via th
 </div>
 
 
-## [FAQ, Contributing and Support ►]({{site.url}}/info){:.center}
+## [Join the conversation on Cisco Spark ►](https://eurl.io/#S1C_161YW){:.center}
 
