@@ -3,10 +3,11 @@ layout: page
 title: Support
 permalink: /support/
 group: "navigation"
+navigation_weight: 4
 ---
 
 # Support
-The Open Source PowerUps are not a Cisco Product and as such all support is offered on a best efforts basis directly by the contributors of the PowerUps directly. 
+The Open Source PowerUps are not a Cisco Product and as such all support is offered on a best efforts basis directly by the contributors of the PowerUps directly.
 
 Please do not raise a support request with Cisco or Cisco Spark for Developers for any issues relating to the PowerUps as they will be unable to assist.
 

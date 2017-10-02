@@ -11,8 +11,9 @@
 
     <div class="trigger">
       <ul>
-        {% assign pages_list = site.pages %}
+        {% assign pages_list = site.pages | sort: "navigation_weight" %}
         {% assign group = 'navigation' %}
+        {{ navigation_weight }}
         {% include pages_list %}
       </ul>
 
