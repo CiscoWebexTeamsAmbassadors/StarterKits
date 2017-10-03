@@ -1,6 +1,12 @@
+{% assign author = (site.data.authors | where: "name", bot.author | first ) %}
+
 <div class="card-item">
 
   <div class="card-item__body">
+    <span class="card-item__logo">
+      <img src="{{ site.url }}/assets/img/logo-{{ author.name | downcase | remove: ' ' }}.png">
+    </span>
+
     <span class="card-item__title">
       <a href="{{ bot.repo }}" target="_blank" alt="{{ bot.repo }}">
         {{ bot.title }}

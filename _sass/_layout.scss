@@ -38,6 +38,11 @@
     @extend .truncate;
   }
 
+  &__logo img {
+    max-width: 130px;
+    float: right;
+  }
+
   &__description {
     font-size: 17px;
     line-height: 22px;

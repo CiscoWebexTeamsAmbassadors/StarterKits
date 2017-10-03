@@ -1,6 +1,6 @@
 ---
 title: Survey
-author: Promptworks 
+author: PromptWorks
 language: JavaScript
 framework: Botkit
 storage: Redis
