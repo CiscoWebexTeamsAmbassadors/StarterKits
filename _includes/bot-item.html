@@ -13,7 +13,9 @@
       </a>
 
     </span>
-    <span class="card-item__author">by: {{ bot.author }}</span>
+    <span class="card-item__author">by:
+      <a href="{{ author.url }}" target="_blank" alt="{{ author.url }}">{{ bot.author }}</a>
+    </span>
     <span class="card-item__description">{{ bot.content }}</span>
   </div>
 
