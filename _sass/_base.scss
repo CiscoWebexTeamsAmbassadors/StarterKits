@@ -1,6 +1,19 @@
+
 // Base
+@font-face {
+    font-family: CiscoSans;
+    src: url(../assets/fonts/CiscoSansRegular.otf);
+}
+
+@font-face {
+    font-family: CiscoSansLight;
+    src: url(../assets/fonts/CiscoSansExtraLight.otf);
+}
+
+
 body {
   color: #444444;
+  // background-image: url(../assets/img/spaceballs-bg.jpg) !important;
 }
 
 h2 {
