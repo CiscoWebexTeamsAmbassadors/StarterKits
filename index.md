@@ -12,7 +12,7 @@ group: "navigation"
   <div class="feature-item">
     <span class="feature-item__icon fa fa-gears"></span>
     <div class="feature-item__body">
-      <span class="feature-item__title">Custom</span>
+      <span class="feature-item__title">Flexible</span>
       <span class="feature-item__description">
         Totally customisable to suit your requirements
       </span>
@@ -32,7 +32,7 @@ group: "navigation"
   <div class="feature-item">
     <span class="feature-item__icon fa fa-heart"></span>
     <div class="feature-item__body">
-      <span class="feature-item__title">Free</span>
+      <span class="feature-item__title">Open</span>
       <span class="feature-item__description">
         Open Source. Powered by community contributions
       </span>
