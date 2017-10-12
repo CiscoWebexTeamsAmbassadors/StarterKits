@@ -2,7 +2,7 @@
 title: Cisco Infrastructure Chat Ops
 author: Josh Anderson
 language: Python
-framework: Flask
+framework: flask
 storage:
 repo: https://github.com/imapex/CICO
 deploy: https://www.google.co.uk
