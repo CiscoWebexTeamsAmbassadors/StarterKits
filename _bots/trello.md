@@ -1,6 +1,6 @@
 ---
 title: Trello
-author: Botkit.ai 
+author: Botkit 
 language: JavaScript
 framework: Botkit
 repo: https://github.com/howdyai/trello-ciscospark
