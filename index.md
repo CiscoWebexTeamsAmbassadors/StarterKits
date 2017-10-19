@@ -22,7 +22,7 @@ group: "navigation"
   <div class="feature-item">
     <span class="feature-item__icon fa fa-lock"></span>
     <div class="feature-item__body">
-      <span class="feature-item__title">Secure</span>
+      <span class="feature-item__title">Agnostic</span>
       <span class="feature-item__description">
         Deploy to your preferred Cloud/Premise for data transmission and storage
       </span>
