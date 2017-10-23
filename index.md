@@ -46,13 +46,13 @@ group: "navigation"
 
 <span id="learn-more"></span>
 
-Cisco Spark Ambassador StarterKits are a collection of community created Open Source Bots and Integrations. Designed to be a kickstarter to meet the requirements of complex enterprise software configurations and satisfy data storage and transmission considerations.
+Cisco Spark Ambassador Starter Kits are a collection of community created Open Source Bots and Integrations. Designed to be a kickstarter to meet the requirements of complex enterprise software configurations and satisfy data storage and transmission considerations.
 
 Contributions to this collection are provided as a reference implementation which will provide a solid set of functionality that works with most  default configurations of the respective application.
 
-Each StarterKit has been made available under an Open Source license (typically MIT License) allowing you to take the reference implementation of the Bot/Integration and customise freely to your needs.
+Each Starter Kit has been made available under an Open Source license (typically MIT License) allowing you to take the reference implementation of the Bot/Integration and customise freely to your needs.
 
-Many enterprises have strict InfoSec requirements around data storage and transmission. To address this, all StarterKits in this collection can be deployed in your preferred Cloud and every repository contains a precomposed Dockerfile, along with a Deploy to Heroku button allowing you to spin up a StarterKit on Heroku in just a few clicks.
+Many enterprises have strict InfoSec requirements around data storage and transmission. To address this, all Starter Kits in this collection can be deployed in your preferred Cloud and every repository contains a precomposed Dockerfile, along with a Deploy to Heroku button allowing you to spin up a Starter Kit on Heroku in just a few clicks.
 
 There is a Cisco Spark Space dedicated to this project which you can join via the Spark Ambassador team or via clicking this [link](https://eurl.io/#S1C_161YW)
 
