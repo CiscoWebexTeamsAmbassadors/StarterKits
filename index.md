@@ -60,7 +60,7 @@ There is a Cisco Spark Space dedicated to this project which you can join via th
 
 <br>
 
-## Available Bots by Application <a class="btn-github" href="https://github.com/CiscoSparkAmbassadors/PowerUps" target="_blank" alt="view on github"><img class="btn-github" src="{{ site.url }}/assets/img/btn-github.png" /></a>
+## Available Bots by Application
 
 <br>
 <div class="card-items">
