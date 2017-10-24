@@ -25,3 +25,5 @@ navigation_weight: 3
 **I like the PowerUps but need some support with custom development or customisation, are there developers that can help?**
 * There is a community of developers that have expertise building on Cisco Spark, some of those have contributed to the PowerUps and some have not. Any software development shop is able to build on Cisco Spark but if you like the quality of the projects provided by contributors you can reach out directly.
 
+**I am new to development for Cisco Spark, where should I start from**
+* [Spark for Developers](https://developer.ciscospark.com) regroups the developer reference documentation to extend Cisco Spark and create applications using Cisco Spark APIs and SDKs. As several StarterKits leverage the Botkit framework, we suggest you go through these [step-by-step DevNet tutorials](https://learninglabs.cisco.com/modules/spark-apps) to learn how to create conversational chat bots with Botkit.
