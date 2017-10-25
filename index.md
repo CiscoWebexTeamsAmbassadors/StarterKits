@@ -60,7 +60,7 @@ There is a Cisco Spark Space dedicated to this project which you can join via th
 
 <br>
 
-## Available Bots by Application
+## Starter Kits by Application
 
 <br>
 <div class="card-items">
