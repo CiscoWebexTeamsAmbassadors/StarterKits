@@ -56,7 +56,7 @@ Many enterprises have strict InfoSec requirements around data storage and transm
 
 There is a Cisco Spark Space dedicated to this project which you can join via the Spark Ambassador team or via clicking this [link](https://eurl.io/#S1C_161YW)
 
-** Cisco disclaims all liability for third party Bots and Integrations listed here. The terms of use for third party Bots and Integrations are between you and the provider.
+<sub><sup>** Cisco disclaims all liability for third party Bots and Integrations listed here. The terms of use for third party Bots and Integrations are between you and the provider.</sup></sub>
 
 <br>
 
