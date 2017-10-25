@@ -38,3 +38,5 @@ My Submission Short Description
 ```
 
 Once received, the PR will be reviewed by the Ambassador Community and either accepted or if there is an issue, you will contacted directly via GitHub. Once a listing has been approved, it will be live instantly thanks to GitHub pages.
+
+** By submitting your Bots and Integrations for listing as a Starter Kit, you grant Cisco a worldwide, royalty-free, sublicenseable license to: list your Bots and Integrations here, remove your Bots and Integrations from here, and use the trade names, trademarks, service marks, logos and domain names with your Bots and Integrations while they are listed here.
