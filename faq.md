@@ -22,8 +22,8 @@ navigation_weight: 3
 **I'd like to share a project with the Community as a Starter Kit, how do I do it?**
 * We are excited to list new contributions from the community, check out the contributing section to understand the process and requirements in order to be listed on the PowerUps listing.
 
-**I like the PowerUps but need some support with custom development or customisation, are there developers that can help?**
-* There is a community of developers that have expertise building on Cisco Spark, some of those have contributed to the PowerUps and some have not. Any software development shop is able to build on Cisco Spark but if you like the quality of the projects provided by contributors you can reach out directly.
+**I like the Starter Kits but need some support with custom development or customisation, are there developers that can help?**
+* There is a community of developers that have expertise building on Cisco Spark, some of those have contributed to the Starter Kits and some have not. Any software development shop is able to build on Cisco Spark but if you like the quality of the projects provided by contributors you can reach out directly.
 
 **I am new to development for Cisco Spark, where should I start from**
 * [Spark for Developers](https://developer.ciscospark.com) houses the developer reference documentation to extend Cisco Spark and create applications using the Cisco Spark APIs and SDKs. As several StarterKits leverage the Botkit framework, we suggest you go through these [step-by-step DevNet tutorials](https://learninglabs.cisco.com/modules/spark-apps) to learn how to create conversational chat bots with Botkit.
