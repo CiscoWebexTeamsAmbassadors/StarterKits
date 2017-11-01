@@ -5,7 +5,7 @@ language: Python
 framework: flask
 storage:
 repo: https://github.com/meraki/spark-operations-bot
-deploy: https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmeraki%2Fspark-operations-bot&template=https%3A%2F%2Fgithub.com%2Fmeraki%2Fspark-operations-bot
+deploy: https://heroku.com/deploy?template=https://github.com/meraki/spark-operations-bot/
 ---
 
 ChatOps that bridges Meraki, Umbrella and Cisco Spark
