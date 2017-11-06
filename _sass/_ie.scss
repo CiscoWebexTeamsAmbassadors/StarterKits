@@ -1,0 +1,44 @@
+// IE hacks and fixes
+
+@mixin support-ie {
+
+  .feature-items {
+    display: flex;
+  }
+
+  .card-item {
+    width: 48%;
+    margin-bottom: 20px;
+  }
+
+  .card-item:nth-child(odd) {
+    float: left;
+  }
+
+  .card-item:nth-child(even) {
+    float: right;
+  }
+
+
+  @media (max-width: 768px) {
+
+    .feature-items {
+      display: block;
+    }
+
+    .card-item {
+      display: block;
+      width: 100%;
+    }
+
+  }
+
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  @include support-ie();
+}
+
+@supports (-ms-ime-align: auto) {
+  @include support-ie();
+}
