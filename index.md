@@ -46,7 +46,7 @@ group: "navigation"
 
 <span id="learn-more"></span>
 
-Cisco Spark Ambassador Starter Kits are a collection of community created Open Source Bots and Integrations. Designed to be a kickstarter to meet the requirements of complex enterprise software configurations and satisfy data storage and transmission considerations.
+Cisco Spark Open Source Starter Kits are a collection of community created Open Source Bots and Integrations. Designed to be a kickstarter to meet the requirements of complex enterprise software configurations and satisfy data storage and transmission considerations.
 
 Contributions to this collection are provided as a reference implementation which will provide a solid set of functionality that works with most  default configurations of the respective application.
 
