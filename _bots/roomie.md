@@ -6,4 +6,4 @@ repo: https://bitbucket.org/bjolseth/roomie/
 framework: ExpressJS
 ---
 
-Roomie connects to Cisco Video Systems and report whether there are people in the meeting rooms, based on sensors in the Video Systems such as Face Count and Ultrasonic Motion Detection.
+Visualize Live Cisco VC Room Utilization
