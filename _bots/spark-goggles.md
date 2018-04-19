@@ -1,5 +1,5 @@
 ---
-title: Cisco Webex Teams Goggles
+title: Webex Goggles
 author: PromptWorks
 language: Java
 framework: Android
