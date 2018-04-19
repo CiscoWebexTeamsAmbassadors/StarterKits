@@ -8,4 +8,4 @@ repo: https://github.com/AltusConsulting/Spark-Broadcast-Bot
 deploy: https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAltusConsulting%2FSpark-Broadcast-Bot&template=https%3A%2F%2Fgithub.com%2FAltusConsulting%2FSpark-Broadcast-Bot
 ---
 
-A Multi-topic Cisco Spark Notification Bot
+A Multi-topic Cisco Webex Teams Notification Bot
