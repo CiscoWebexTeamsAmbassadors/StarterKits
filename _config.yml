@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Open Source Bots
-author: Cisco Spark
+title: Open Source Starter Kits
+author: Cisco Webex Teams
 email: jonfiel@cisco.com
 description: > # this means to ignore newlines until "baseurl:"
-  Open Source Starter Kits for Cisco Spark 🤖
+  Open Source Starter Kits for Cisco Webex Teams 🤖
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ciscosparkambassadors.github.io/StarterKits" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ciscowebexteamsambassadors.github.io/StarterKits" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CiscoSpark
 github_username:  CiscoSparkAmbassadors
 
