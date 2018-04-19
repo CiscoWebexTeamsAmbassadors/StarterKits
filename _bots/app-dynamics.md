@@ -8,4 +8,4 @@ repo: https://github.com/AltusConsulting/sparkbot-appd-botkit
 deploy: https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAltusConsulting%2Fsparkbot-appd-botkit&template=https%3A%2F%2Fgithub.com%2FAltusConsulting%2Fsparkbot-appd-botkit
 ---
 
-Cisco Spark Notification Bot for AppDynamics
+Cisco Webex Teams Notification Bot for AppDynamics
