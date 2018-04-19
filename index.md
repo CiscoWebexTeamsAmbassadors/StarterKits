@@ -46,7 +46,7 @@ group: "navigation"
 
 <span id="learn-more"></span>
 
-Cisco Spark Open Source Starter Kits are a collection of community created Open Source Bots and Integrations. Designed to be a kickstarter to meet the requirements of complex enterprise software configurations and satisfy data storage and transmission considerations.
+Cisco Webex Teams Open Source Starter Kits are a collection of community created Open Source Bots and Integrations. Designed to be a kickstarter to meet the requirements of complex enterprise software configurations and satisfy data storage and transmission considerations.
 
 Contributions to this collection are provided as a reference implementation which will provide a solid set of functionality that works with most  default configurations of the respective application.
 
@@ -54,7 +54,7 @@ Each Starter Kit has been made available under an Open Source license (typically
 
 Many enterprises have strict InfoSec requirements around data storage and transmission. To address this, all Starter Kits in this collection can be deployed in your preferred Cloud and every repository contains a precomposed Dockerfile, along with a Deploy to Heroku button allowing you to spin up a Starter Kit on Heroku in just a few clicks.
 
-There is a Cisco Spark Space dedicated to this project which you can join via the Spark Ambassador team or via clicking this [link](https://eurl.io/#S1C_161YW)
+There is a Cisco Webex Teams Space dedicated to this project which you can join via the Webex Ambassador team or via clicking this [link](https://eurl.io/#S1C_161YW)
 
 <small>** Cisco disclaims all liability for third party Bots and Integrations listed here. The terms of use for third party Bots and Integrations are between you and the provider.</small>
 
@@ -70,5 +70,5 @@ There is a Cisco Spark Space dedicated to this project which you can join via th
 </div>
 
 
-## [Join the conversation on Cisco Spark ►](https://eurl.io/#S1C_161YW){:.center}
+## [Join the conversation on Cisco Webex Teams ►](https://eurl.io/#S1C_161YW){:.center}
 
